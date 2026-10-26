@@ -46,6 +46,6 @@ I build WordPress and WooCommerce systems that bring in business: custom themes 
 
 ## 🤝 Work with me
 
-Clients in the UK, USA, Canada and Germany · freelancing full-time since 2021 · Government-certified in Web Design & Development (LEDP, ICT Division, Bangladesh, 2020).
+Clients in the UK, USA, Canada, Germany and Lithuania · freelancing full-time since 2021 · Government-certified in Web Design & Development (LEDP, ICT Division, Bangladesh, 2020).
 
 Have a WordPress site that needs a feature no plugin offers, or a store that should sell more? **[Send me a message](https://hasibulhasansakib.com)** and I'll reply with a clear plan.
